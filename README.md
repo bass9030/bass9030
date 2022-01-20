@@ -4,6 +4,6 @@ Human bass9030 = new Human() {
   hope = "coding",
   isShipduck = true, // Maybe "shipduck" mean in English is "otaku"...
   realNameDisclosure = false,
-  age = 15,
+  age = 16, // in Korea age
   country = Country.southKorea // So, I am not good at English.
 };
