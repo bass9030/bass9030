@@ -4,7 +4,7 @@ Human bass9030 = new Human() {
   hope = "coding",
   isShipduck = true, // Shipduck is the phonetic representation of the Korean word "씹덕" (similar to "weeb" or "otaku").
   realNameDisclosure = false,
-  age = 17, // in Korea age
+  age = 18, // in Korea age
   country = Country.southKorea // So, I am not good at English.
 };
 ```
