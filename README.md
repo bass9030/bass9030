@@ -12,7 +12,7 @@ Human bass9030 = new Human() {
   Hobby = new Hobby[] { Hobby.Coding, Hobby.Game },
   isShipduck = true, // Shipduck is the phonetic representation of the Korean word "씹덕" (similar to "weeb" or "otaku").
   ableLanguage = new Language[] { Language.NodeJS, Language.Python, Language.CS },
-  age = 19, // GOD DAMN WHY I AM FUCKING 19 YEAR OLD SHIT THE FUCKING
+  age = 20, // OK I GOT IT. I'M ADULT NOW
   country = Country.SouthKorea // So, I am not good at English.
 };
 ```
